@@ -6,7 +6,7 @@
 
 <div align="center">
   
-# Hi, I'm Diarboy 👋
+# Hi, I'm DIARBOY 👋
 
 I am a passionate developer with a keen interest in web development and open-source contributions. I love to learn new technologies and improve my skills by working on exciting projects.
 
@@ -64,7 +64,7 @@ I am a passionate developer with a keen interest in web development and open-sou
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/diarboy/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/allbibek)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/allbibek_)
 
 </div>
 
