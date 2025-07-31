@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://diarboy.github.io/allbibek" target="_blank" rel="noopener noreferrer">
-    <img width="180" src="https://diarboy.github.io/allbibek/hero.png" alt="Allbibek Hero">
+    <img width="180" src="https://raw.githubusercontent.com/diarboy/allbibek-new/refs/heads/main/docs/public/img/hero.png" alt="Allbibek Hero">
   </a>
 </p>
 
